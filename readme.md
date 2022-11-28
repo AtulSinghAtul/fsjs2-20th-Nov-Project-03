@@ -1,6 +1,6 @@
 # Project- 03
 
-[Live Link](https://20th-nov-fsjs-batch-2-project-03.netlify.app/)
+[Live Link](https://fsjs2-20th-nov-project-03.netlify.app)
 
 ## Name : Atul Singh
 
