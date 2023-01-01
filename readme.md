@@ -20,4 +20,4 @@
 
 Project Screenshot :-
 
-![LCO](./output.png)
+![trend img](https://user-images.githubusercontent.com/112545072/210178490-df4e6603-d2c7-4770-9f7f-e8f5094ac2bf.png)
